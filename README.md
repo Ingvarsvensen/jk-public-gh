@@ -1,3 +1,3 @@
 # jk-public-gh
 
-Simple Docker image for testing a freestyle jenkins job
+A simple Docker image for testing a freestyle Jenkins job
